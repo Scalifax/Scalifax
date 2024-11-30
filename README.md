@@ -33,7 +33,7 @@ Here are some of my most recent and relevant projects:
 ### [IoT Project (Estação Genesis)]([https://github.com/your-username/smart-iot-project](https://github.com/Scalifax/ProjETE2k24-EstacaoGenesis))
 The Estação Genesis is an innovative weather station developed by the 3101 team for ProjETE 2K24, the prestigious ETE FMC project fair. The station was designed to collect information from a specific location and automatically forecast the weather, in a much more reliable way, as these forecasts do not depend on information collected at considerable distances from the region or on human interpretation.
 
-### [MT8816](https://github.com/your-username/automation-system)
+### [MT8816]([https://github.com/your-username/automation-system](https://github.com/Scalifax/MT8816))
 A library developed to integrate the MT8816 analog crosspoint switch with an ESP32 microcontroller. This library allows for control of the MT8816 chip, enabling the user to configure connections between different channels (X and Y pins) using the ESP32.
 
 <!-- Add more projects as needed -->
